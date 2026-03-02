@@ -32,7 +32,7 @@ Although the dataset contained both product and review-level information, this a
 
 Textual review fields and identifiers were excluded from structured pricing and engagement analysis to reduce dimensionality and maintain analytical focus.
 
-Features Used for Analysis
+Features Used for Analysis:
 
 •	Actual-price
 
@@ -60,7 +60,7 @@ Features Used for Analysis
 
 **Analytical Approach:**
 
-Data Preparation
+Data Preparation:
 
 •	Numeric standardisation
 
@@ -68,7 +68,7 @@ Data Preparation
 
 •	Conditional imputation for missing values
 
-Exploratory Analysis
+Exploratory Analysis:
 
 •	Distribution & skewness analysis
 
@@ -76,7 +76,7 @@ Exploratory Analysis
 
 •	Pearson & Spearman correlation testing
 
-SQL-Based Aggregation
+SQL-Based Aggregation:
 
 •	Engagement share calculation
 
@@ -86,7 +86,7 @@ SQL-Based Aggregation
 
 •	Performance segmentation (Star, Hidden Gem, Low Performer)
 
-Dashboard Development
+Dashboard Development:
 
 •	Total engagement
 
