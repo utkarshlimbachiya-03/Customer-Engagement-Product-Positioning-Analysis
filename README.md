@@ -105,7 +105,29 @@ Dashboard Development:
 
 •	Correlation analysis (Pearson & Spearman) revealed a weak relationship between discount percentage and engagement, raising questions about promotional efficiency.
 
-•	Some products get high engagement but low ratings, which may indicate quality issues.
+•	Some products get high engagement but low ratings or vice-versa, which may indicate quality issues.
+
+
+**Observation Screenshots**
+
+Finding 1:
+<img width="849" height="203" alt="image" src="https://github.com/user-attachments/assets/bf404e83-ef19-4598-a6b0-5ba56d406511" />
+
+Finding 2:
+<img width="1600" height="601" alt="image" src="https://github.com/user-attachments/assets/3a23c031-c73a-4be3-b0ce-3c3e5ee491e6" />
+
+Findng 3:
+Spearman matrix
+
+<img width="768" height="659" alt="image" src="https://github.com/user-attachments/assets/f9516ab4-cd98-4b99-a119-b63b1e163fff" />
+
+Pearson Matrix
+
+<img width="768" height="659" alt="image" src="https://github.com/user-attachments/assets/b9d1fe38-0032-49f1-b245-0b4a775c6d7b" />
+
+Finding 4:
+
+<img width="1600" height="601" alt="image" src="https://github.com/user-attachments/assets/54773253-c7d9-428d-acba-eafd09469927" />
 
 
 **Recommendations**
